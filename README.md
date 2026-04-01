@@ -32,11 +32,7 @@ The application expects a CSV file with the following structure:
 2. **Data rows:** `Name, Type, Pos X, Pos Y, Vel X, Vel Y, Mass`.
 
 ## Compilation and Usage
-The application is launched via command-line scripts:
+The application is launched via command-line script:
 
 ```bash
-# Windows
 Run.cmd path/to/data.csv
-
-# Linux/macOS
-./run.sh path/to/data.csv
