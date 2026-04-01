@@ -1,7 +1,7 @@
 # Space Visualization & Simulation
 
 **Author:** Zdeněk Vavřička    
-**Date:** 2021/2022    
+**Date:** May 2022    
 **Course:** Úvod do počítačové grafiky (**KIV/UPG**)    
 
 ---
