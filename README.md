@@ -2,7 +2,7 @@
 
 **Author:** Zdeněk Vavřička    
 **Date:** 2021/2022    
-**Course:** Počítačová grafika (**KIV/UPG**)    
+**Course:** Úvod do počítačové grafiky (**KIV/UPG**)    
 
 ---
 
