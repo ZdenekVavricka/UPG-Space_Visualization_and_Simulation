@@ -1,0 +1,1 @@
+javadoc -encoding UTF-8 -sourcepath .\src\galaxy_animation -cp .;.\lib\jfreechart-1.5.3.jar;.\lib\org.jfree.svg-4.2.jar;.\src\galaxy_animation -d doc\javadoc -version -author .\src\galaxy_animation\*.java
